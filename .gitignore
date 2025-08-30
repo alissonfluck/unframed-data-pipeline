@@ -1,0 +1,18 @@
+# Arquivo: .gitignore
+
+# Ambiente Virtual
+unframed_env/
+venv/
+
+# Arquivos de Segredos
+.env
+
+# Pastas de Dados (não devem ir para o repositório)
+landing_zone/
+processed_data/
+archive/
+error/
+
+# Arquivos comuns do Python
+__pycache__/
+*.pyc
