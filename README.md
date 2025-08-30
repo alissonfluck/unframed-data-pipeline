@@ -3,7 +3,7 @@ Um Projeto Prático de Engenharia de Dados.
 
 [![Python](https://img.shields.io/badge/Python-3.12.10-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-17.5-blue?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![Version](https://img.shields.io/badge/version-1.0.0-orange)](https://github.com/alissonfluck/SEU_REPOSITORIO/releases)
+[![Version](https://img.shields.io/badge/version-1.0.0-orange)](https://github.com/alissonfluck/unframed-data-pipeline/releases)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
 
@@ -178,8 +178,8 @@ ORDER BY
 
 ### 📥 Clonar o repositório
 ```bash
-git clone [URL_DO_SEU_REPOSITORIO]
-cd [NOME_DA_PASTA_DO_PROJETO]
+git clone https://github.com/alissonfluck/unframed-data-pipeline.git
+cd unframed-data-pipeline
 ```
 
 ### 📦 Instalar dependências
